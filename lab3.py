@@ -27,4 +27,5 @@ def upload_output_to_s3(log_file_name):
 
 
 if __name__ == "__main__":
+    # run main
     main(sys.argv[1:])
